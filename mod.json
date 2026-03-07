@@ -1,0 +1,12 @@
+{
+	"geode": "5.3.0",
+	"gd": {
+    "win": "2.2081"
+  },
+	"id": "hectolitro75.photoshoot",
+	"name": "PhotoShoot",
+	"version": "v1.0.0-beta.1",
+	"developer": "hectolitro75",
+	"description": "Mod that allows you to convert images into the pixels of your chosen image. It can also read .JSON files made with the Geometrize Web demo or Geometrize App in order to transform them into shapes instead of pixels. Compatible with BetterEdit.\n\nThis mod is in early beta, expect bugs and missing features. If you find any, please report them on the GitHub repository or Discord server.",
+  	"tags": ["editor", "utility"]
+}
