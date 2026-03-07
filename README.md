@@ -12,3 +12,4 @@ To see your image correctly:
 1. Import your image using PhotoShoot.
 2. Go to the **Color Menu** in the editor.
 3. Select **Channel 999**.
+4. Put the color channel in **black**
