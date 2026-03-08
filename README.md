@@ -5,7 +5,6 @@
 - **Image Support:** Import JPG, PNG, and more.
 - **JSON Support:** Import custom pixel data.
 - **BetterEdit Compatible:** Won't crash your game.
-- **Smart Undo:** Press Ctrl+Z to remove the entire image at once.
 
 ### IMPORTANT: How to get colors working
 To see your image correctly:
