@@ -7,7 +7,7 @@
 - **BetterEdit Compatible:** Won't crash your game.
 - **Smart Undo:** Press Ctrl+Z to remove the entire image at once.
 
-### ⚠️ IMPORTANT: How to get colors working
+### IMPORTANT: How to get colors working
 To see your image correctly:
 1. Import your image using PhotoShoot.
 2. Go to the **Color Menu** in the editor.
