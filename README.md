@@ -13,3 +13,5 @@ To see your image correctly:
 2. Go to the **Color Menu** in the editor.
 3. Select **Channel 999**.
 4. Put the color channel in **black**
+
+In case you need any kind of support with this mod, go to the official [Discord Community](https://discord.gg/BpRUtFDhuP)

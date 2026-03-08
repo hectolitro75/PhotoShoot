@@ -1,1 +1,1 @@
-If you need any kind of support with this mod, comment it on GitHub Repositories or enter the <a href="https://discord.gg/BpRUtFDhuP">Discord Community.</a>
+In case you want to support me, message me via Discord hectrrr._. and we'll talk on how you can do it :^
